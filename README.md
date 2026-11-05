@@ -1,5 +1,12 @@
 Semáforo com LED (Tinkercad) Projeto da disciplina de Sistemas Embarcados, Desenvolvimento de Sistemas ETEC.
 
+Tecnologias utilizadas e componentes eletrônicos:
+
+Linguagem de programação C++.
+Placa de prototipagem Arduino.
+LEDs 5v.
+Resistores 1k Ohm
+
 O que faz: Simula um semáforo básico com LEDs controlados por código simples em C++.
 
 Primeiro crio as variáveis ​​dos LEDs que irão representar as luzes do semáforo:
